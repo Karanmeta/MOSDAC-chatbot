@@ -1,1 +1,0 @@
-# This file can be empty. It indicates that 'web_scraper' is a Python package.
